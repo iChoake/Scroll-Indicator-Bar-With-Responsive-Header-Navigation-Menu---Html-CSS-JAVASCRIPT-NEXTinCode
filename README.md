@@ -1,0 +1,2 @@
+# Scroll-Indicator-Bar-With-Responsive-Header-Navigation-Menu---Html-CSS-JAVASCRIPT-NEXTinCode
+Scroll Indicator Bar | With Responsive Header Navigation Menu - Html, CSS &amp; Javascript  In this video, you will learn how to make a scroll indicator bar fixed with a responsive header navigation bar for a website using HTML, CSS, and Javascript. The scroll indicator bar shows how far the page has scrolled and also it works on the page scroll back up.
